@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital city of Germany",
+      "options": ["Berlin", "Munich", "Frankfurt", "Cologne"],
+      "answer": "Berlin"
+    },
+    {
+      "question": "What is the capital city of Macedonia",
+      "options": ["Berlin", "Skopje", "Frankfurt", "Cologne"],
+      "answer": "Skopje"
+    },
+    {
+      "question": "What is the capital city of Croatia",
+      "options": ["Berlin", "Munich", "Zagreb", "Cologne"],
+      "answer": "Zagreb"
+    }
+  ]
+}

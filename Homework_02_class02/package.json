@@ -1,0 +1,15 @@
+{
+  "name": "homework02_class0203",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node-app.js",
+    "watch": "nodemon ./app.js local host 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

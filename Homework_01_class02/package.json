@@ -1,0 +1,15 @@
+{
+  "name": "homework_class02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-index.js",
+    "watch": "nodemon ./index.js local host 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
